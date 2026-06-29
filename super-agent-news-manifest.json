@@ -1,0 +1,27 @@
+{
+  "citations": [
+    "[blog.google](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/)",
+    "[thenextweb.com](https://thenextweb.com/news/google-gemini-3-5-flash-computer-use-built-in-tool)",
+    "[searchenginejournal.com](https://www.searchenginejournal.com/google-gemini-can-now-control-your-computer-hackers-are-already-targeting-ai-agents/)",
+    "[venturebeat.com](https://venturebeat.com/ai/contrario-launches-the-case-for-pairing-ai-agents-with-human-recruiters-instead-of-replacing-them/)",
+    "[g2.com](https://learn.g2.com/video-interviewing-tools)",
+    "[techtarget.com](https://www.techtarget.com/searchhrsoftware/feature/Top-AI-recruiting-tools-and-software-of-2026)"
+  ],
+  "design_plan": "rng=42; AIDA: Attention(hero recruiting pain), Interest(computer-use trend), Desire(cache reuse for sourcing/interviews), Action(CTA); hero math: 68px clamp \u2192 2\u20133 lines @1120px; bento density verified via grid-auto-flow:dense; competitors sweep included; button contrast checked (ink/white).",
+  "generated_at": "2026-06-29T23:02:46.619615+00:00",
+  "headline": "Super for recruiters sourcing candidates and coordinating interviews",
+  "site_brief": {
+    "audience": "recruiters sourcing candidates and coordinating interviews",
+    "goal": "Create a conversion-focused landing page for this audience. Tie current market evidence to pain points, then show how Super can operate apps and reuse a computer-use cache for repeated work.",
+    "kind": "niche_landing",
+    "queries": [
+      "recruiters sourcing candidates and coordinating interviews AI assistant",
+      "recruiters sourcing candidates and coordinating interviews personal AI agent",
+      "computer use AI agent",
+      "AI workflow automation"
+    ],
+    "slug": "super-for-recruiters-sourcing-candidates-and-coordinating",
+    "title": "Super for recruiters sourcing candidates and coordinating interviews"
+  },
+  "summary": "A conversion\u2011focused niche landing page for recruiters who live inside LinkedIn, ATS tools, calendars, and email. The page ties current evidence about computer\u2011use agents (notably Gemini 3.5 Flash) to real recruiting pain points, then positions Super as the sharper alternative for repeated sourcing and interview coordination workflows thanks to its reusable computer\u2011use cache."
+}
